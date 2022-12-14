@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Fn+yZsuFj4xghqkKfIWtqGBLVWC3a0epdFy5JikOq5JUalnAlzcKWLr5LoHOaFHkZj7VHcHQJsJ9tkiySUkzQ==",
+  "dgSpecHash": "ez0a7MRl8u1Wq81+5iNBdy83W5HugvdZXMaa/CPBJZ46AeVZ2vWbfAvyVl4JP/Xh3aycQDah2TvYCzElnPB/cA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tssta\\source\\repos\\ConsoleAppForReqHTTP\\WebApplicationForReqHTTP\\WebApplicationForReqHTTP.csproj",
+  "projectFilePath": "D:\\Projects\\repos\\get-post-csharp\\WebApplicationForReqHTTP\\WebApplicationForReqHTTP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

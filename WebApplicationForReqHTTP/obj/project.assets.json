@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tssta\\source\\repos\\ConsoleAppForReqHTTP\\WebApplicationForReqHTTP\\WebApplicationForReqHTTP.csproj",
+      "projectUniqueName": "D:\\Projects\\repos\\get-post-csharp\\WebApplicationForReqHTTP\\WebApplicationForReqHTTP.csproj",
       "projectName": "WebApplicationForReqHTTP",
-      "projectPath": "C:\\Users\\tssta\\source\\repos\\ConsoleAppForReqHTTP\\WebApplicationForReqHTTP\\WebApplicationForReqHTTP.csproj",
+      "projectPath": "D:\\Projects\\repos\\get-post-csharp\\WebApplicationForReqHTTP\\WebApplicationForReqHTTP.csproj",
       "packagesPath": "C:\\Users\\tssta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tssta\\source\\repos\\ConsoleAppForReqHTTP\\WebApplicationForReqHTTP\\obj\\",
+      "outputPath": "D:\\Projects\\repos\\get-post-csharp\\WebApplicationForReqHTTP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
